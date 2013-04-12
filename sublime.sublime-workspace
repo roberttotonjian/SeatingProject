@@ -1,0 +1,263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"syn pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"synt bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"syntax: bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"RMate: Start the RMate remote server"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 257.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/robert.totonjian/Desktop/SeatingProject.sublime-project",
+		"/L/software/Admin/Staff/Toto/SeatingProject/README.md",
+		"/L/software/non_max/._nuke",
+		"/L/software/non_max/projector_raid/config.xml",
+		"/L/software/non_max/Fonts/install_fonts.bat",
+		"/L/software/non_max/name mangler/namemangler",
+		"/L/software/non_max/folder_express/explorer_32.bat",
+		"/L/software/non_max/folder_express/explorer_64.bat",
+		"/L/software/Admin/Tools/spacesniffer/SpaceSnifferConfig.xml",
+		"/L/software/non_max/Check_Installations/product.xml",
+		"/C/Users/robert.totonjian/AppData/Roaming/.purple/blist.xml",
+		"/L/centralisedPlugins/pipeline/Pivot/pivotTray.py",
+		"/C/Users/robert.totonjian/AppData/Roaming/.purple/accounts.xml",
+		"/C/Users/robert.totonjian/AppData/Roaming/.purple/status.xml",
+		"/C/Users/robert.totonjian/AppData/Roaming/.purple/prefs.xml",
+		"/L/software/RV/RV_INSTALL.sh",
+		"//mel.int.omnilab.com.au/SysVol/mel.int.omnilab.com.au/Policies/{8E1F3781-BF52-446E-91C7-13C52A579792}/User/Scripts/Logon/kixtart.kix",
+		"/L/software/non_max/3dlight/set_3delight.py",
+		"//mel.int.omnilab.com.au/SysVol/mel.int.omnilab.com.au/Policies/{D848634D-5913-4814-87AD-775D256259C1}/User/Scripts/Logon/kixtart.kix",
+		"//mel.int.omnilab.com.au/SysVol/mel.int.omnilab.com.au/Policies/{9DA55003-78D8-4CC8-88A1-3913AED1C657}/User/Scripts/Logon/kixtart.kix",
+		"/L/centralisedPlugins/2d/nuke/plugins/init.py",
+		"/L/centralisedPlugins/2d/nuke/plugins/python/gatsbyBaseGradeExport.py",
+		"/L/centralisedPlugins/pipeline/timeLogger/timeLogger.py",
+		"/L/centralisedPlugins/pipeline/dailyMaker/DailyMakerDialog.py",
+		"/L/centralisedPlugins/pipeline/utility/ilUtilities.py",
+		"/L/centralisedPlugins/2d/nuke/plugins/python/wolverineMatchGradeExport.py",
+		"/L/centralisedPlugins/2d/nuke/plugins/python/ilNukeColourManagement.py",
+		"/R/wds/Applications/RVFileAssoc/RVfileAssoc.bat",
+		"/L/software/Admin/Linux/scripts/testscript",
+		"/L/software/Admin/Linux/scripts/test",
+		"/C/Users/robert.totonjian/Desktop/mountwim.bat",
+		"/C/Python26/Tools/versioncheck/_checkversion.py",
+		"/C/Python26/Tools/versioncheck/pyversioncheck.py",
+		"/C/Python26/Tools/versioncheck/checkversions.py",
+		"/L/software/non_max/deadline/Deadline_6/InstallDeadline6(NoAutoStart).bat",
+		"/L/software/non_max/deadline/Deadline_6/InstallDeadline6(AutoStart).bat.bat",
+		"/L/software/non_max/deadline/Deadline_6/installDeadline6_runThis.py",
+		"/C/ProgramData/Symantec/Symantec Endpoint Protection/PersistedData/sephwid.xml",
+		"/L/software/RV/shotgun_fields_config_iloura.mu",
+		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/Startup/OSStartup_local.py",
+		"/D/Program Files/Tweak/RV-3.12.19-64/plugins/Mu/os_dependent_path_conversion_mode.mu",
+		"/C/Users/robert.totonjian/Desktop/readme.txt",
+		"/L/software/RV/linux/rv-Linux-x86-64-3.12.18/README",
+		"//BACHLIBRARY/library/centralisedPlugins/2d/nuke/plugins/init.py",
+		"//BACHLIBRARY/library/centralisedPlugins/2d/nuke/plugins/menu.py",
+		"//BACHLIBRARY/library/centralisedPlugins/2d/nuke/plugins/python/ilNukeColourManagement.py",
+		"/C/Users/robert.totonjian/Downloads/pam_mount-2.5-1.fc12.x86_64.rpm",
+		"/L/software/Admin/Tools/freeSSHd/install.bat",
+		"/L/software/Admin/Tools/freeSSHd/remove.bat",
+		"/L/software/Admin/Tools/freeSSHd/setup.bat",
+		"/C/Users/robert.totonjian/Downloads/freeSSHd.xml",
+		"/L/software/2D/nuke/Nuke7.0.4/License/foundry.lic",
+		"/L/software/Admin/Tools/freeSSHd/registrykeys.reg",
+		"/C/Users/robert.totonjian/Desktop/fgjsfjg.reg",
+		"/L/software/2D/nuke/Nuke7.0.4/Install_Scripts/Farm_Install.bat",
+		"/L/software/2D/nuke/Nuke7.0.4/Install_Scripts/Setup.bat",
+		"/C/Program Files (x86)/freeSSHd/FreeSSHDService.ini",
+		"/C/Program Files (x86)/freeSSHd/DSAKey.cfg",
+		"/C/Program Files (x86)/rshd/src/rshd.cpp",
+		"/C/Program Files (x86)/rshd/src/Service.h",
+		"/L/software/Admin/Tools/RSH/.rhosts",
+		"/L/software/Admin/Tools/RSH/windowsrhosts",
+		"/L/software/Admin/Tools/RSH/install.bat",
+		"//mel.int.omnilab.com.au/SysVol/mel.int.omnilab.com.au/Policies/{AF364D68-8A98-439E-B06E-CB1317BB1066}/User/Scripts/Logon/ilLocalCache.bat",
+		"/C/Users/robert.totonjian/Downloads/squid.conf",
+		"/D/Program Files/Nuke7.0.1/plugins/menu.py",
+		"//s33-dc2/REMINST/Boot/x64/pxelinux.cfg/default",
+		"/L/software/Admin/Drivers/Windows/Hardware/ioFX/172.30.12.168.key",
+		"/L/software/Admin/Scripts/Sophos/Sophos_Remove.bat",
+		"//s33-dc2/REMINST/Boot/x86/pxelinux.cfg/graphics.conf",
+		"//s33-dc2/REMINST/Boot/x86/pxelinux.cfg/default",
+		"//bachlibrary/deadline_repository/51/jobs/008_050_999_3ce1e0ea/nuke_plugin_info1.job",
+		"/L/software/Admin/Software/VisioViewer/VVinstall.bat",
+		"//bachlibrary/deadline_repository/51/jobs/008_050_999_3ce1e0ea/taskProgress/100%_Rendering_63495840020.18",
+		"//mel.int.omnilab.com.au/SysVol/mel.int.omnilab.com.au/Policies/{9DA55003-78D8-4CC8-88A1-3913AED1C657}/User/Scripts/Logon/kixtart full.kix",
+		"//mel.int.omnilab.com.au/sysvol/mel.int.omnilab.com.au/Policies/{31EAB1A0-9DFB-455C-9C51-89383363D8A2}/User/Scripts/Logon/kixtart.kix",
+		"//mel.int.omnilab.com.au/SysVol/mel.int.omnilab.com.au/Policies/{D9DD8DF8-2B23-4331-B5D6-7548E0F0A38E}/User/Scripts/Logon/kixtart.kix",
+		"//mel.int.omnilab.com.au/SysVol/mel.int.omnilab.com.au/Policies/{D668FF68-D6B5-41F2-AF8B-9212BF71214F}/User/Scripts/Logon/kixtart.kix"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"L:\\centralisedPlugins"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"init shotgun",
+			"ilcol",
+			"msi",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
