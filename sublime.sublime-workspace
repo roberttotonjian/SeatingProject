@@ -8,12 +8,28 @@
 	"buffers":
 	[
 		{
-			"file": "arraytest.py",
+			"file": "loaddb.py",
 			"settings":
 			{
-				"buffer_size": 498,
+				"buffer_size": 1531,
 				"line_ending": "Windows",
 				"name": "user1 = []"
+			}
+		},
+		{
+			"file": "seatingfuncts.py",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/L/centralisedPlugins/pipeline/Pivot/pivotTray.py",
+			"settings":
+			{
+				"buffer_size": 33672,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -89,6 +105,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/robert.totonjian/Downloads/nakasi-jdq39/flash-all.sh",
+		"/L/centralisedPlugins/pipeline/Pivot/pivotTray.py",
 		"/C/Users/robert.totonjian/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/robert.totonjian/AppData/Roaming/Sublime Text 2/Packages/User/pydev.py",
 		"/C/Users/robert.totonjian/Desktop/SeatingProject.sublime-project",
@@ -102,7 +120,6 @@
 		"/L/software/Admin/Tools/spacesniffer/SpaceSnifferConfig.xml",
 		"/L/software/non_max/Check_Installations/product.xml",
 		"/C/Users/robert.totonjian/AppData/Roaming/.purple/blist.xml",
-		"/L/centralisedPlugins/pipeline/Pivot/pivotTray.py",
 		"/C/Users/robert.totonjian/AppData/Roaming/.purple/accounts.xml",
 		"/C/Users/robert.totonjian/AppData/Roaming/.purple/status.xml",
 		"/C/Users/robert.totonjian/AppData/Roaming/.purple/prefs.xml",
@@ -187,6 +204,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"global",
+			"records",
+			")\n",
+			")):\n",
 			"init shotgun",
 			"ilcol",
 			"msi",
@@ -213,18 +234,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "arraytest.py",
+					"file": "loaddb.py",
 					"settings":
 					{
-						"buffer_size": 498,
+						"buffer_size": 1531,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								498,
-								498
+								1531,
+								1531
 							]
 						],
 						"settings":
@@ -234,6 +255,61 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "seatingfuncts.py",
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/L/centralisedPlugins/pipeline/Pivot/pivotTray.py",
+					"settings":
+					{
+						"buffer_size": 33672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1111,
+								1104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
