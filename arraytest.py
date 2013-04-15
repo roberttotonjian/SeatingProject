@@ -9,8 +9,10 @@ for x in range(10):
 	print master[x][1]
 
 
-user = [[1110, 'adam'], [1111, 'toto'], [1112, 'rodney'], [1113, 'jon']]
-comp = [['adam\'s_comp', 'Z400'], ['toto\'s_Comp', 'T5500'], ['rodneyComp01' 'Z400'], ['jonbox_01', 'Z600']]
-seat = [[0, 0], [0, 1], [0, 2], [1, 0]]
+user = [[1110, 'Adam'], [1111, 'Toto'], [1112, 'Rodney'], [1113, 'Jon']]
+comp = [[1110, 1], [1111, 4], [1112, 3], [1113, 3]]
+seat = [[1110, 0, 0], [1111, 0, 1], [1112, 0, 2], [1113, 1, 0]]
+complist = [[0, 'Earlier Crap'], [1, 'Z400'], [2, 'Z600'], [3, 'Z620'], [4, 'T5400'], [5, 'T5500']]
 print user[1][0]
 print comp[2][0]
+print complist[3]

@@ -11,7 +11,7 @@
 			"file": "arraytest.py",
 			"settings":
 			{
-				"buffer_size": 160,
+				"buffer_size": 498,
 				"line_ending": "Windows",
 				"name": "user1 = []"
 			}
@@ -89,6 +89,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/robert.totonjian/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/robert.totonjian/AppData/Roaming/Sublime Text 2/Packages/User/pydev.py",
 		"/C/Users/robert.totonjian/Desktop/SeatingProject.sublime-project",
 		"/L/software/Admin/Staff/Toto/SeatingProject/README.md",
 		"/L/software/non_max/._nuke",
@@ -214,15 +216,15 @@
 					"file": "arraytest.py",
 					"settings":
 					{
-						"buffer_size": 160,
+						"buffer_size": 498,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								98,
-								98
+								498,
+								498
 							]
 						],
 						"settings":
@@ -270,6 +272,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
 	"replace":
 	{
 		"height": 0.0
