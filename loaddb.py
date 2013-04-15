@@ -1,4 +1,5 @@
 from seatingfuncts import *
+import json
 
 # loads list into master array <name of array to impoort> <position of data in list to import> <position to import to>
 def loadtomaster(name, posim, posma):
@@ -8,27 +9,46 @@ def loadtomaster(name, posim, posma):
 		# master[uid][0] = uid
 		master[uid][posma] = cont
 
+def loadseattomaster(name, posim1, posim2, posma1, posma2):
+	for i in range(len(name)):
+		uid = name[i][0]
+		cont1 = name[i][posim1]
+		cont2 = name[i][posim2]
+		master[uid][posma1] = str(alph[cont1])
+		master[uid][posma2] = cont2
+
 #prints all content of master db
 def printmaster():
 	for i in range(len(master)):
-		print str(i), str(master[i])
+		print(str(i), str(master[i]))
 
+def savedb(name, filename):
+	f = open(str(filename), 'w')
+	f.write(str(name))
+	f.close()
 
-alph = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+# def loaddb(name, filename):
+# 	f = open(str(filename), 'r')
+# 	name = f.readline(0)
+# 	print(name)
+# 	f.close()
+
 global alph
-user = [[1110, 'Adam'], [1111, 'Toto'], [1112, 'Rodney'], [1113, 'Jon']]
+alph = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 global user
-comp = [[1110, 1], [1111, 4], [1112, 3], [1113, 3]]
+user = [[1110, 'Adam'], [1111, 'Toto'], [1112, 'Rodney'], [1113, 'Jon']]
 global comp
-seat = [[1110, 1, 1], [1111, 6, 2], [1112, 4, 3], [1113, 4, 5]]
+comp = [[1110, 1], [1111, 4], [1112, 3], [1113, 3]]
 global seat
-ram = [[1110, 20], [1111, 12], [1112, 8], [1113, 16]]
+seat = [[1110, 1, 1], [1111, 6, 2], [1112, 4, 3], [1113, 4, 5]]
 global ram
-complist = [[0, 'Earlier Crap'], [1, 'Z400'], [2, 'Z600'], [3, 'Z620'], [4, 'T5400'], [5, 'T5500']]
+ram = [[1110, 20], [1111, 12], [1112, 8], [1113, 16]]
 global complist
-master = [[]]
+complist = [[0, 'Earlier Crap'], [1, 'Z400'], [2, 'Z600'], [3, 'Z620'], [4, 'T5400'], [5, 'T5500']]
 global master
+master = [[]]
 
+loaddb(user, "user")
 
 records = 1
 for i in range(len(user)):
@@ -42,8 +62,8 @@ for i in range(records):
 
 loadtomaster(user, 1, 0)
 loadtomaster(seat, 1, 1)
-loadtomaster(seat, 2, 2)
-loadtomaster(comp, 1, 3)
+loadseattomaster(seat, 1, 2, 2, 3)
 loadtomaster(ram, 1, 4)
 
-printmaster()
+# printmaster()
+# savedb(user, "user")
