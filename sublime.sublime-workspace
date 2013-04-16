@@ -5,7 +5,7 @@
 		[
 			[
 				"db",
-				"db"
+				"dblist"
 			],
 			[
 				"str",
@@ -23,25 +23,9 @@
 			"file": "loaddb.py",
 			"settings":
 			{
-				"buffer_size": 2362,
+				"buffer_size": 2670,
 				"line_ending": "Windows",
 				"name": "user1 = []"
-			}
-		},
-		{
-			"file": "db/user",
-			"settings":
-			{
-				"buffer_size": 44,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "db/comp",
-			"settings":
-			{
-				"buffer_size": 43,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -121,10 +105,14 @@
 	},
 	"file_history":
 	[
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/complist",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/seat",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/user",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/ram",
 		"/L/software/Admin/Staff/Toto/SeatingProject/db/list",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/comp",
 		"/L/software/Admin/Staff/Toto/SeatingProject/seatingfuncts.py",
 		"/L/centralisedPlugins/pipeline/Pivot/pivotTray.py",
-		"/L/software/Admin/Staff/Toto/SeatingProject/db/user",
 		"/L/software/Admin/Staff/Toto/SeatingProject/comp",
 		"/C/Users/robert.totonjian/Downloads/nakasi-jdq39/flash-all.sh",
 		"/C/Users/robert.totonjian/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
@@ -224,6 +212,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			")\n",
+			"'",
+			"#",
+			", ",
+			"], [",
+			"[[]]",
+			",",
 			"global",
 			"filename",
 			", ",
@@ -263,15 +258,15 @@
 					"file": "loaddb.py",
 					"settings":
 					{
-						"buffer_size": 2362,
+						"buffer_size": 2670,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								255,
-								255
+								1316,
+								1316
 							]
 						],
 						"settings":
@@ -279,58 +274,6 @@
 							"auto_name": "user1 = []",
 							"syntax": "Packages/Python/Python.tmLanguage",
 							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "db/user",
-					"settings":
-					{
-						"buffer_size": 44,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								44,
-								44
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "db/comp",
-					"settings":
-					{
-						"buffer_size": 43,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								43,
-								43
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
