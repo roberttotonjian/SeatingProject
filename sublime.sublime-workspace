@@ -4,8 +4,16 @@
 		"selected_items":
 		[
 			[
-				"posma",
-				"posma2"
+				"db",
+				"db"
+			],
+			[
+				"str",
+				"strname"
+			],
+			[
+				"comp",
+				"complist"
 			]
 		]
 	},
@@ -15,16 +23,24 @@
 			"file": "loaddb.py",
 			"settings":
 			{
-				"buffer_size": 2011,
+				"buffer_size": 2362,
 				"line_ending": "Windows",
 				"name": "user1 = []"
 			}
 		},
 		{
-			"file": "seatingfuncts.py",
+			"file": "db/user",
 			"settings":
 			{
-				"buffer_size": 1,
+				"buffer_size": 44,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "db/comp",
+			"settings":
+			{
+				"buffer_size": 43,
 				"line_ending": "Windows"
 			}
 		}
@@ -32,9 +48,17 @@
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 104.0,
+		"height": 58.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
 			[
 				"syn pyth",
 				"Set Syntax: Python"
@@ -42,10 +66,6 @@
 			[
 				"syntax bash",
 				"Set Syntax: Shell Script (Bash)"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"synt bash",
@@ -101,8 +121,11 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Robert/Desktop/Git/SeatingProject/user",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/list",
+		"/L/software/Admin/Staff/Toto/SeatingProject/seatingfuncts.py",
 		"/L/centralisedPlugins/pipeline/Pivot/pivotTray.py",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/user",
+		"/L/software/Admin/Staff/Toto/SeatingProject/comp",
 		"/C/Users/robert.totonjian/Downloads/nakasi-jdq39/flash-all.sh",
 		"/C/Users/robert.totonjian/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/robert.totonjian/AppData/Roaming/Sublime Text 2/Packages/User/pydev.py",
@@ -202,6 +225,12 @@
 		"find_history":
 		[
 			"global",
+			"filename",
+			", ",
+			"global",
+			"user",
+			"comp",
+			"global",
 			"records",
 			")\n",
 			")):\n",
@@ -234,15 +263,15 @@
 					"file": "loaddb.py",
 					"settings":
 					{
-						"buffer_size": 2011,
+						"buffer_size": 2362,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								872,
-								769
+								255,
+								255
 							]
 						],
 						"settings":
@@ -252,31 +281,56 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 305.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "seatingfuncts.py",
+					"file": "db/user",
 					"settings":
 					{
-						"buffer_size": 1,
+						"buffer_size": 44,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1,
-								1
+								44,
+								44
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "db/comp",
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -347,6 +401,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 235.0,
+	"side_bar_width": 125.0,
 	"status_bar_visible": true
 }
