@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"pri",
+				"printmaster"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"tem",
+				"templiststring"
+			],
+			[
 				"db",
 				"dblist"
 			],
@@ -23,9 +35,17 @@
 			"file": "loaddb.py",
 			"settings":
 			{
-				"buffer_size": 2670,
+				"buffer_size": 1929,
 				"line_ending": "Windows",
 				"name": "user1 = []"
+			}
+		},
+		{
+			"file": "init.py",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -105,12 +125,17 @@
 	},
 	"file_history":
 	[
-		"/L/software/Admin/Staff/Toto/SeatingProject/db/complist",
-		"/L/software/Admin/Staff/Toto/SeatingProject/db/seat",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/ram = each",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/comp",
 		"/L/software/Admin/Staff/Toto/SeatingProject/db/user",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/seat",
 		"/L/software/Admin/Staff/Toto/SeatingProject/db/ram",
 		"/L/software/Admin/Staff/Toto/SeatingProject/db/list",
-		"/L/software/Admin/Staff/Toto/SeatingProject/db/comp",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/complist",
+		"/L/software/Renderfarm/deadline/Deadline_6/installDeadline6_runThis.py",
+		"/L/software/Renderfarm/deadline/Deadline_6/killDeadline6.py",
+		"/C/Users/robert.totonjian/Desktop/asfga/illiadAutoLogin.bat",
+		"/L/software/2D/Mocha_Imagineer Systems/LicenseInstall.bat",
 		"/L/software/Admin/Staff/Toto/SeatingProject/seatingfuncts.py",
 		"/L/centralisedPlugins/pipeline/Pivot/pivotTray.py",
 		"/L/software/Admin/Staff/Toto/SeatingProject/comp",
@@ -212,6 +237,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"L:",
 			")\n",
 			"'",
 			"#",
@@ -258,15 +284,15 @@
 					"file": "loaddb.py",
 					"settings":
 					{
-						"buffer_size": 2670,
+						"buffer_size": 1929,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1316,
-								1316
+								423,
+								423
 							]
 						],
 						"settings":
@@ -274,6 +300,33 @@
 							"auto_name": "user1 = []",
 							"syntax": "Packages/Python/Python.tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "init.py",
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -317,7 +370,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 154.0
+		"height": 248.0
 	},
 	"replace":
 	{
@@ -344,6 +397,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 125.0,
+	"side_bar_width": 175.0,
 	"status_bar_visible": true
 }
