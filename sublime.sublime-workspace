@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"each",
+				"eachrec"
+			],
+			[
+				"list",
+				"listcount"
+			],
+			[
+				"posim",
+				"posim"
+			],
+			[
 				"pri",
 				"printmaster"
 			],
@@ -35,7 +47,7 @@
 			"file": "loaddb.py",
 			"settings":
 			{
-				"buffer_size": 1929,
+				"buffer_size": 2710,
 				"line_ending": "Windows",
 				"name": "user1 = []"
 			}
@@ -45,6 +57,14 @@
 			"settings":
 			{
 				"buffer_size": 47,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "db/ram",
+			"settings":
+			{
+				"buffer_size": 31,
 				"line_ending": "Windows"
 			}
 		}
@@ -125,8 +145,13 @@
 	},
 	"file_history":
 	[
-		"/L/software/Admin/Staff/Toto/SeatingProject/db/ram = each",
 		"/L/software/Admin/Staff/Toto/SeatingProject/db/comp",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/seat1",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/seat2",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/comp2",
+		"/L/software/Admin/Staff/Toto/SeatingProject/time.py",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/comp1",
+		"/L/software/Admin/Staff/Toto/SeatingProject/db/ram = each",
 		"/L/software/Admin/Staff/Toto/SeatingProject/db/user",
 		"/L/software/Admin/Staff/Toto/SeatingProject/db/seat",
 		"/L/software/Admin/Staff/Toto/SeatingProject/db/ram",
@@ -226,7 +251,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
 			"L:\\centralisedPlugins"
@@ -284,15 +309,15 @@
 					"file": "loaddb.py",
 					"settings":
 					{
-						"buffer_size": 1929,
+						"buffer_size": 2710,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								423,
-								423
+								2172,
+								2172
 							]
 						],
 						"settings":
@@ -302,7 +327,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 45.0,
+						"translation.y": 851.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -327,6 +352,32 @@
 						{
 							"auto_name": "",
 							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "db/ram",
+					"settings":
+					{
+						"buffer_size": 31,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
