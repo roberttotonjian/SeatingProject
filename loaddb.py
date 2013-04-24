@@ -63,8 +63,6 @@ def savedb():
 		myfile.write("")
 		for eachrec in range(len(list(master))):
 			if master[eachrec][0] != "-":
-				print("-----"+str(eachrec))
-				print("-----"+str(eachdb))
 				dbname = eachdb[0]
 				dbrec = str(master[eachrec][int(eachdb[2])])
 				myfile.write(str(eachrec)+','+str(dbrec)+'\n')
